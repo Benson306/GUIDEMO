@@ -20,5 +20,6 @@ namespace GUIDEMO
         {
             button2.Enabled = checkBox1.Checked;
         }
+      
     }
 }
